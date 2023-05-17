@@ -1,0 +1,18 @@
+#Logo{
+    font-size: 60px;
+}
+
+#PersonLogo{
+    width: 400px;
+}
+
+.LeftPersonLogo{
+    position: absolute;
+    right:70%;
+    top: 155px;
+}
+.RightPersonLogo{
+    position: absolute;
+    left:70%;
+    top: 155px;
+}
