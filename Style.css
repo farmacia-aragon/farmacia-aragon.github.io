@@ -22,6 +22,15 @@
     top: 155px;
 }
 
+.LeftPersonMap{
+    position: absolute;
+    right:70%;
+}
+.RightPersonMap{
+    position: absolute;
+    left:70%;
+}
+
 #LogoSquare{
     position: absolute;
     top: 0;
