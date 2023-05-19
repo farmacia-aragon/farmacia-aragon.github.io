@@ -42,17 +42,29 @@
 }
 
 #Noticies{
-    width: 70%;
+    width: 1000px
 }
 #bodyText{
     font-size: 30px;
 }
 
+.social{
+    float: right;
+    align-items: center;
+}
+.RMALLogo{
+    width: 90px;
+}
+
+
 html{
 
-    font-family:sans-serif;
+    font-family: 'Wix Madefor Text';
+
 }
+
 
 footer{
     background-color: rgb(225, 255, 229);
+    height: 140px;
 }
